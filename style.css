@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(49, 49, 49);
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#foto {
+    border-radius: 100%;
+}
+#desc {
+    font-family: monospace;
+}
+.destacarItensDesc {
+    font-style: italic;
+}
+#nomelista {
+    font-size: 20px;
+}
+.elemento1 {
+    font-size: 14px;
+}
+.elemento2 {
+    font-size: 17px;
+}
+.elemento3 {
+    font-size: 19px;
+}
+.button {
+    background-color:white;
+    padding: 5px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: rgb(49, 49, 49);
+}
