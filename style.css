@@ -19,8 +19,11 @@ h1 {
     margin-top: 80px;
     max-width: 960px;
 }
+#centralizarFotoDesc {
+    margin-left: 40px;
+}
 #listaIndice {
-    margin-top: 80px;
+    margin-top: 120px;
 }
 .destacarItensDesc {
     font-style: italic;
