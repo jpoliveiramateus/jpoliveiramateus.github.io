@@ -8,9 +8,19 @@ h1 {
 }
 #foto {
     border-radius: 50%;
+    float: left;
+    margin-left: 150px;
+    padding: 2px;
+    background-color: rgb(31, 31, 31);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.226);
 }
 #desc {
     font-family: monospace;
+    margin-top: 80px;
+    max-width: 960px;
+}
+#listaIndice {
+    margin-top: 80px;
 }
 .destacarItensDesc {
     font-style: italic;
@@ -20,12 +30,14 @@ h1 {
 }
 .elemento1 {
     font-size: 14px;
+    font-style: italic;
 }
 .elemento2 {
     font-size: 17px;
 }
 .elemento3 {
     font-size: 19px;
+    font-style: italic;
 }
 .button {
     background-color:white;
