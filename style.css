@@ -9,15 +9,18 @@ h1 {
 #foto {
     border-radius: 50%;
     float: left;
-    margin-left: 150px;
     padding: 2px;
     background-color: rgb(31, 31, 31);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.226);
 }
+#info {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 960px;
+}
 #desc {
     font-family: monospace;
-    margin-top: 80px;
-    max-width: 960px;
+    margin-top: 90px;
 }
 #listaIndice {
     margin-top: 120px;
